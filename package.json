@@ -1,0 +1,24 @@
+{
+  "name": "strava_scraper",
+  "version": "1.0.0",
+  "description": "## Next steps 8/10/21:  - Creating a postman request  - Exporting data JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josem279/strava_scraper.git"
+  },
+  "author": "Jose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josem279/strava_scraper/issues"
+  },
+  "homepage": "https://github.com/josem279/strava_scraper#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
